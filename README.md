@@ -1,1 +1,1 @@
-# FitApk-QT-C-
+# FitApk-QT-C++
